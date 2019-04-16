@@ -11,5 +11,5 @@ Chase's Hobbies
 	-Guitar Hero
 	-Satisfactoy
 	-Skyrim
--Amatuer Programming in Javascript
+-Amateur Programming in Javascript
 	-Khan Academy
