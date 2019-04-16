@@ -4,7 +4,9 @@ Chase's Hobbies
 	-Guitar
 	-Bass
 	-Drums
+	-Keys
 -Video Games
 	-Overwatch
 	-Guitar Hero
 	-Satisfactoy
+	-Skyrim
