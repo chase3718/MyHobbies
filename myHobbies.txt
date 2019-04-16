@@ -4,9 +4,12 @@ Chase's Hobbies
 	-Guitar
 	-Bass
 	-Drums
+		-All percussive instruments
 	-Keys
 -Video Games
 	-Overwatch
 	-Guitar Hero
 	-Satisfactoy
 	-Skyrim
+-Amatuer Programming in Javascript
+	-Khan Academy
